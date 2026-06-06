@@ -14,6 +14,7 @@
 - 🚀 [AstraPath AI](https://github.com/Tisharakholiyajagdishbhai/AstraPath-AI) — AI Career Navigator for ISRO/DRDO/NASA
 - 🎓 [Student Placement Predictor](https://github.com/Tisharakholiyajagdishbhai/Student-Placement-Predictor) — [🌐 Live Demo](https://student-placement-predictor-kl6au4vx7drdpsjowappue3.streamlit.app/)
 - 🌊 [Flood Risk ML](https://github.com/Tisharakholiyajagdishbhai/Flood_Risk_ML_Project) — ML based flood risk prediction
+- - 🎵 [AI Music Mood Analyzer](https://github.com/Tisharakholiyajagdishbhai/Music-Mood-Analyzer) — Lyrics se mood detect kare + song recommendations
   
 ##  Currently Learning
 - Sentence Transformers & NLP
