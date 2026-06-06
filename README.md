@@ -10,10 +10,9 @@
 - **Tools:** Streamlit, Jupyter Notebook, Git, GitHub
 - **APIs:** Groq (LLaMA), REST APIs
 
-## Projects
-
--  [AstraPath AI](https://github.com/Tisharakholiyajagdishbhai/AstraPath-AI) — AI Career Navigator for ISRO/DRDO/NASA aspirants
-- 🎓 [Student Placement Predictor](https://github.com/Tisharakholiyajagdishbhai/Student-Placement-Predictor) — ML model to predict campus placement chances
+##  Projects
+- 🚀 [AstraPath AI](https://github.com/Tisharakholiyajagdishbhai/AstraPath-AI) — AI Career Navigator for ISRO/DRDO/NASA
+- 🎓 [Student Placement Predictor](https://github.com/Tisharakholiyajagdishbhai/Student-Placement-Predictor) — [🌐 Live Demo](https://student-placement-predictor-kl6au4vx7drdpsjowappue3.streamlit.app/)
 - 🌊 [Flood Risk ML](https://github.com/Tisharakholiyajagdishbhai/Flood_Risk_ML_Project) — ML based flood risk prediction
   
 ##  Currently Learning
