@@ -11,9 +11,11 @@
 - **APIs:** Groq (LLaMA), REST APIs
 
 ## Projects
--  [AstraPath AI](https://github.com/Tisharakholiyajagdishbhai/AstraPath-AI) — AI Career Navigator for ISRO/DRDO/NASA aspirants
--  [Flood Risk ML](https://github.com/Tisharakholiyajagdishbhai/Flood_Risk_ML_Project) — ML based flood risk prediction
 
+- 🚀 [AstraPath AI](https://github.com/Tisharakholiyajagdishbhai/AstraPath-AI) — AI Career Navigator for ISRO/DRDO/NASA aspirants
+- 🎓 [Student Placement Predictor](https://github.com/Tisharakholiyajagdishbhai/Student-Placement-Predictor) — ML model to predict campus placement chances
+- 🌊 [Flood Risk ML](https://github.com/Tisharakholiyajagdishbhai/Flood_Risk_ML_Project) — ML based flood risk prediction
+  
 ##  Currently Learning
 - Sentence Transformers & NLP
 - LangChain & RAG
